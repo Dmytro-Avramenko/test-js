@@ -30,13 +30,19 @@
 // Зарплата кожного працівника це випадкова цифра від 500 до 5000
 // записати сумму в перемінну totalSalary і виввести в консоль
 
-// 1. Зробити var
-const minSalary = 500;
-const maxSalary = 500;
-const employees = 5;
-let totalSalary = 0; 
+// 1. Зробити var  НЕДОРОЛЕНА ЗАДАЧА
+// const minSalary = 500;
+// const maxSalary = 5000;
+// const employees = 5;
+// let totalSalary = 0; 
 
-// 2. Перебрати праціваників в циклі
+// // 2. Перебрати праціваників в циклі
+// for (let i = 1; i <= employees; i += 1) {
+//     const salary = Math.round(
+//         Math.random() * (maxSalary - minSalary) + minSalary);
+//     // console.log('зарплат а ${i} - ${}' ) тут нерахує
+// }
+
 
 // 3. Згенерувати працівнику випадкову зарпплату 
 
